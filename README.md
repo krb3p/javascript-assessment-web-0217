@@ -12,13 +12,9 @@ For our purposes, an Image has many Comments, and a Comment belongs to an Image.
 
 ## Notes
 
-Your goal is to build out all of the methods listed in the deliverables. Do your best to follow JavaScript best practices.
+Your goal is to build out all of the methods listed in the deliverables. Do your best to follow JavaScript best practices. Read all the deliverables before writing your code. It may make sense to code them in a different order than they are listed in.
 
-To run your html:
-
-- Inside your cloned down folder, in terminal, type `pwd` to get your full file path. Copy and paste that path into your browser url and include `/index.html` to the end of that path.
-
-**To Submit** - once you've completed all the deliverables, please copy/paste your three class definitions into the `solution.js` file. Please don't submit the lab until we give you the signal.
+Please don't submit the lab until we give you the signal.
 
 ## Deliverables
 
